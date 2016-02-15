@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JK]]></title>
+        <description><![CDATA[JK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 17:02:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tony Roma's Ribs #Ribnado]]></title>
+            <description><![CDATA[<article><h1>Tony Roma's Ribs #Ribnado</h1><p>Tony Roma's Ribs #Ribnado While swimming around in a pool and munching on ribs one lazy summer day (product research), I started thinking about SyFy's cult film Sharknado, the impact it had on social media and wondering what would occur if a Sharknado and a ribnado were to collide.</p><img src="http://www.jasonkauzlarich.com/wp-content/uploads/2015/07/ribnado-header.jpg"></article>]]></description>
+            <link>http://www.jasonkauzlarich.com/photo-portfolio/ribnado/</link>
+            <guid isPermaLink="false">5da6d7dd-4f4b-4072-b8f1-e66b989c3db5</guid>
+            <pubDate>Mon, 15 Feb 2016 17:00:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
